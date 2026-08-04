@@ -1,0 +1,16 @@
+[05-Jun-2025 09:13:35 UTC] PHP Warning:  require(/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[05-Jun-2025 09:13:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[05-Jun-2025 09:13:38 UTC] PHP Warning:  require(/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[05-Jun-2025 09:13:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[05-Jun-2025 09:13:46 UTC] PHP Warning:  require(/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[05-Jun-2025 09:13:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/id9lo9vdkle3/public_html/rohanbooks.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/id9lo9vdkle3/public_html/rohanbooks.com/public/index.php on line 13
+[13-Jun-2025 04:59:47 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in /home/id9lo9vdkle3/public_html/rohanbooks.com/routes/web.php on line 21
